@@ -11,7 +11,7 @@
 int main(int argc, char **argv) {
 
     printf("Hello World, I'm Sam DuBois!\n");
-    printf("My major is...\n Computer Science!");
+    printf("My major is... Computer Science!");
 
     return 0;
 }
